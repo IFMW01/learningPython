@@ -7,3 +7,4 @@ myAge = input("what is your age? ")
 print("you will be " +  str(int(myAge)+1 ) + " In a years time")
 
 print ("This is  a new branch test")
+print("The length of your name is " + str(len(myName)))
